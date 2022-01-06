@@ -1,0 +1,14 @@
+{
+  "name": "tsc-crash-ui",
+  "version": "1.0.0",
+  "description": "tsc crash reproducer ui",
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@fullcalendar/core": "5.10.1",
+    "@fullcalendar/react": "5.10.1",
+    "react": "17.0.2",
+    "react-dom": "16.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
+    "module": "commonjs",
+    "target": "es2020",
+    "allowJs": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "strictBindCallApply": true,
+    "strictNullChecks": true,
+    "lib": ["es2020"],
+    "skipLibCheck": true, // required by lib es2020 setting + ui
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": [
+    // by defining an exclude list, the default excludes are removed
+    "**/lib",
+    "**/build",
+    "**/node_modules",
+    "**/dist"
+  ]
+}
