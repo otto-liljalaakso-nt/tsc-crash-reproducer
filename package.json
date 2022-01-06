@@ -2,7 +2,7 @@
   "name": "tsc-crash",
   "version": "0.0.1",
   "description": "tsc crash reproducer",
-  "author": "Novatron",
+  "author": "Novatron Oy",
   "license": "Unlicense",
   "private": true,
   "devDependencies": {
